@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="ArchiveForge logo" width="220">
+</p>
+
 # ArchiveForge
 
 A fast, content-addressed document catalog derived from the useful ideas in
